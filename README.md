@@ -13,10 +13,7 @@ This website is a simple and intuitive online tool that helps you stay organized
 
 ### Screenshot
 
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true)
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(9).png)
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(10).png)
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(11).png?raw=true)
+![]([https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(8).png?raw=true](https://github.com/Avni-gr/ToDo_List_Website/blob/main/Screenshot%20(34).png?raw=true))
 
 ### Links
 
