@@ -70,7 +70,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(image/unchecked.png);
+    background-image: url(https://github.com/Avni-gr/ToDo_List_Website/blob/main/unchecked.png?raw=true);
     background-size: cover;
     background-position: center;
     top: 12px;
