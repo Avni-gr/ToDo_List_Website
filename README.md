@@ -17,19 +17,20 @@ This website is a simple and intuitive online tool that helps you stay organized
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/my_portfolio/)
+- Live Site URL: (https://avni-gr.github.io/ToDo_List_Website/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML
+- CSS
+- JavaScript
 
 ## Author
 
 - Linkedin - [Avni Gour](https://www.linkedin.com/in/avni-gour-aa2375201/)
-- Frontend Mentor - [@Avni-gr](https://www.frontendmentor.io/profile/Avni-gr)
+
 
 
 
